@@ -19,10 +19,14 @@
 
 ## Proyectos Destacados
 
-1. [BaboonLite]: Una libreria para unity que te puede ayudar a hacer pequeños juegos casual.
-2. [BaboonFile]: Un porfolio personalizable, el cual puedes conectar con tu GitHub.
+1. [BaboonLite](https://github.com/ArkaitzL/baboonLite-2-): Una libreria para unity que te puede ayudar a hacer pequeños juegos casual.
+2. [BaboonFile](https://github.com/ArkaitzL/baboonfile): Un porfolio personalizable, el cual puedes conectar con tu GitHub.
 
-Puedes explorar más de mis proyectos en mi perfil de GitHub.
+Puedes explorar más de mis proyectos en mi perfil de GitHub o puedes ver alguna pruebas que he hecho en [itch.io](https://itch.io/).
+
+## Juegos
+
+1. [Swift Slide](https://play.google.com/store/apps/details?id=com.BaboonGames.SwiftSlide&hl=es_PE&gl=US&pli=1)
 
 ## Contacto
 
