@@ -22,7 +22,7 @@
 1. **[BaboonLite](https://github.com/ArkaitzL/baboonLite-2-)**: Una libreria para unity que te puede ayudar a hacer pequeños juegos casual.
 2. **[BaboonFile](https://github.com/ArkaitzL/baboonfile)**: Un porfolio personalizable, el cual puedes conectar con tu GitHub.
 
-Puedes explorar más de mis proyectos en mi perfil de [GitHub](https://github.com/ArkaitzL/baboonfile) o puedes ver alguna pruebas que he hecho en [itch.io](https://itch.io/).
+Puedes explorar más de mis proyectos en mi perfil de [GitHub](https://github.com/ArkaitzL/baboonfile) o puedes ver alguna pruebas que he hecho en [itch.io](https://baboongamesoficial.itch.io/).
 
 ## Juegos
 
