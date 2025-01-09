@@ -10,7 +10,7 @@
 
 ## Mis Habilidades
 
-- 🖼️ **Front-end**: HTML, CSS, JavaScript, Vue, Bootstrap, Sass.
+- 🖼️ **Front-end**: HTML, CSS, JavaScript, Vue, Bootstrap, Sass, Tailwindcss, Astro, Node.
 - 🤖 **Back-end**: PHP, Laravel.
 - 📱 **Android**: Java, Kotlin, Android Studio, Firebase.
 - 🕹️ **Unity**: C#, 2D/3D game development.
