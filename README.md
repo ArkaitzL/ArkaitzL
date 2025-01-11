@@ -31,7 +31,7 @@ Puedes explorar más de mis proyectos en mi perfil de [GitHub](https://github.co
 ## Contacto
 
 - 📧 **Email**: leonarkaitz@gmail.com
-- 🌐 **Sitio Web**: [baboongames.com](https://baboon.games/)
+- 🌐 **Sitio Web**: [baboongames.com](https://arkaitz.me/)
 
 ¡No dudes en contactarme si tienes preguntas o deseas colaborar en algún proyecto!
 
