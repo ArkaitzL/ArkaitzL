@@ -11,8 +11,8 @@
 ## Mis Habilidades
 
 - 🖼️ **Front-end**: HTML, CSS, JavaScript, Vue, Bootstrap, Sass, Tailwindcss, Astro, Node.
-- 🤖 **Back-end**: PHP, Laravel.
-- 📱 **Android**: Java, Kotlin, Android Studio, Firebase.
+- 🤖 **Back-end**: PHP, Laravel, Java, JUnit.
+- 📱 **Android**: Kotlin, Android Studio.
 - 🕹️ **Unity**: C#, 2D/3D game development.
 - 🗄️ **Base de datos**: MySQL, Firebase.
 - 🛠️ **Herramientas**: Git, Visual Studio Code, Android Studio, Unity, Visual Studio.
@@ -22,11 +22,13 @@
 1. 📕 **[BaboonLite](https://github.com/ArkaitzL/baboonLite-2-)**: Una libreria para unity que te puede ayudar a hacer pequeños juegos casual.
 2. 🌐 **[BaboonFile](https://github.com/ArkaitzL/baboonfile)**: Un porfolio personalizable, el cual puedes conectar con tu GitHub.
 
-Puedes explorar más de mis proyectos en mi perfil de [GitHub](https://github.com/ArkaitzL/baboonfile) o puedes ver alguna pruebas que he hecho en [itch.io](https://baboongamesoficial.itch.io/).
+Puedes explorar más de mis proyectos en mi perfil de [GitHub](https://github.com/ArkaitzL) o puedes ver alguna pruebas que he hecho en [itch.io](https://baboongamesoficial.itch.io/).
 
 ## Juegos
 
-1. 🐧 **[Swift Slide](https://play.google.com/store/apps/details?id=com.BaboonGames.SwiftSlide&hl=es_PE&gl=US&pli=1)**
+1. 🐧 **[Swift Slide](https://github.com/ArkaitzL/Swiftslide)**
+2. 🎱 **[Only Bounce](https://github.com/ArkaitzL/OnlyBounce)**
+
 
 ## Contacto
 
