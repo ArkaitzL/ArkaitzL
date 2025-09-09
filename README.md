@@ -33,7 +33,7 @@ Puedes explorar más de mis proyectos en mi perfil de [GitHub](https://github.co
 ## Contacto
 
 - 📧 **Email**: leonarkaitz@gmail.com
-- 🌐 **Sitio Web**: [arkaitz.me](https://info.arkaitz.me/)
+- 🌐 **Sitio Web**: [arkaitz.me](https://arkaitz.me/)
 
 ¡No dudes en contactarme si tienes preguntas o deseas colaborar en algún proyecto!
 
